@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../plugin/testData/strutsXmlHighlighting/MyClass.java [testData]'" />
-    <option name="defaultScopeName" value="File '.../plugin/testData/strutsXmlHighlighting/MyClass.java [testData]'" />
-    <option name="SEARCH_SCOPE" value="File '.../plugin/testData/strutsXmlHighlighting/MyClass.java [testData]'" />
+    <option name="customScope" value="Project 'sourceCode.zip Folder'" />
+    <option name="defaultScopeName" value="Project 'sourceCode.zip Folder'" />
+    <option name="SEARCH_SCOPE" value="Project 'sourceCode.zip Folder'" />
   </component>
 </application>
