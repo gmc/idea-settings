@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'sourceCode.zip Folder'" />
-    <option name="defaultScopeName" value="Project 'sourceCode.zip Folder'" />
-    <option name="SEARCH_SCOPE" value="Project 'sourceCode.zip Folder'" />
+    <option name="customScope" value="Project 'BiglyBT'" />
+    <option name="defaultScopeName" value="Project 'BiglyBT'" />
+    <option name="SEARCH_SCOPE" value="Project 'BiglyBT'" />
   </component>
 </application>
